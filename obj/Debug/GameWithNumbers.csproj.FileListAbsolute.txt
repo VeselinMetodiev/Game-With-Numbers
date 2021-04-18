@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\GameWithNumbers\GameWithNumbers\bin\Debug\GameWithNumbers.exe.config
+C:\Users\User\source\repos\GameWithNumbers\GameWithNumbers\bin\Debug\GameWithNumbers.exe
+C:\Users\User\source\repos\GameWithNumbers\GameWithNumbers\bin\Debug\GameWithNumbers.pdb
+C:\Users\User\source\repos\GameWithNumbers\GameWithNumbers\obj\Debug\GameWithNumbers.csprojAssemblyReference.cache
+C:\Users\User\source\repos\GameWithNumbers\GameWithNumbers\obj\Debug\GameWithNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GameWithNumbers\GameWithNumbers\obj\Debug\GameWithNumbers.exe
+C:\Users\User\source\repos\GameWithNumbers\GameWithNumbers\obj\Debug\GameWithNumbers.pdb
